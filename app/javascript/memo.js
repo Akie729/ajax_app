@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 function memo() {
   const submit = document.getElementById("submit");
   submit.addEventListener("click", (e) => {
@@ -10,4 +8,3 @@ function memo() {
   });
 }
 window.addEventListener("load", memo);
->>>>>>> Stashed changes
